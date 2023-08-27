@@ -1,2 +1,1 @@
-*.sql linguist-detectable=false
-*.sql linguist-language=sql
+notebooks/** linguist-vendored = true
