@@ -1,5 +1,5 @@
 # World-Happiness-Report
-Analyzing world happiness data using SQL
+Analyzing world happiness data using SQL and R
 
 check the notebook here : 
 ## 📖 Table of Contents:
